@@ -19,6 +19,6 @@ export const profile = {
   about: [
     { title: "What I do", text: "I build scalable Java full-stack applications at TCS: Spring Boot microservices, React interfaces, and optimized SQL." },
     { title: "How I work", text: "Readable code, small reviewable changes, documented decisions, and steady communication with the team." },
-    { title: "Recognition", text: "Global Rank 208 in TCS CodeVita Season 12. B.E. Computer Science (GTU), CGPA 9.0, college rank 1. Event Co-ordinator, TechnoKruti Bootcamp." },
+    { title: "Recognition", text: "Global Rank 208 in TCS CodeVita Season 12. B.E. Computer Science (GTU), CGPA 9.13, college rank 1. Event Co-ordinator, TechnoKruti Bootcamp." },
   ],
 };
